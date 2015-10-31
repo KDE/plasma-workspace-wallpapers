@@ -1,5 +1,12 @@
 [Desktop Entry]
 Name=Event Day
+Name[ca]=Dia de l'esdeveniment
+Name[pl]=Dzień przypadków
+Name[pt]=Dia de Evento
+Name[pt_BR]=Dia de Evento
+Name[sv]=Evenemangsdag
+Name[uk]=День події
+Name[x-test]=xxEvent Dayxx
 X-KDE-PluginInfo-Name=EventDay
 X-KDE-PluginInfo-Author=Ken Vermette
 X-KDE-PluginInfo-Email=vermette@gmail.com
