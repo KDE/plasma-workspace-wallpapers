@@ -1,5 +1,12 @@
 [Desktop Entry]
 Name=Fallen Leaf
+Name[ca]=Fulla caiguda
+Name[gl]=Folla caída
+Name[nl]=Gevallen blad
+Name[pt_BR]=Folha Caída
+Name[sv]=Fallet löv
+Name[uk]=Падалішній листок
+Name[x-test]=xxFallen Leafxx
 X-KDE-PluginInfo-Name=FallenLeaf
 X-KDE-PluginInfo-Author=Martin Klapetek
 X-KDE-PluginInfo-Email=mklapetek@kde.org
