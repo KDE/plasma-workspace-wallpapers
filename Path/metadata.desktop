@@ -1,5 +1,13 @@
 [Desktop Entry]
 Name=Path
+Name[ca]=Camí
+Name[en_GB]=Path
+Name[gl]=Ruta
+Name[pt]=Caminho
+Name[pt_BR]=Caminho
+Name[sv]=Stig
+Name[uk]=Шлях
+Name[x-test]=xxPathxx
 X-KDE-PluginInfo-Name=Path
 X-KDE-PluginInfo-Author=Risto Saukonpää
 X-KDE-PluginInfo-Email=paristo@gmail.com

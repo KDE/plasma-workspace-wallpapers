@@ -1,5 +1,13 @@
 [Desktop Entry]
 Name=Cold Ripple
+Name[ca]=Onada de fred
+Name[en_GB]=Cold Ripple
+Name[gl]=Ondas frías
+Name[pt]=Onda Fria
+Name[pt_BR]=Onda Fria
+Name[sv]=Kall krusning
+Name[uk]=Холодні брижі
+Name[x-test]=xxCold Ripplexx
 X-KDE-PluginInfo-Name=ColdRipple
 X-KDE-PluginInfo-Author=Risto Saukonpää
 X-KDE-PluginInfo-Email=paristo@gmail.com

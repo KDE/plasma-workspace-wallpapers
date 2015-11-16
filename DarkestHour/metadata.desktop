@@ -1,5 +1,13 @@
 [Desktop Entry]
 Name=Darkest Hour
+Name[ca]=L'hora més fosca
+Name[en_GB]=Darkest Hour
+Name[gl]=A hora máis escura
+Name[pt]=Hora Mais Escura
+Name[pt_BR]=Hora Mais Escura
+Name[sv]=Mörkaste timman
+Name[uk]=Найтемніша година
+Name[x-test]=xxDarkest Hourxx
 X-KDE-PluginInfo-Name=DarkestHour
 X-KDE-PluginInfo-Author=Risto Saukonpää
 X-KDE-PluginInfo-Email=paristo@gmail.com
