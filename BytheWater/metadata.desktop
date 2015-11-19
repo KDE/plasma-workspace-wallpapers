@@ -1,5 +1,14 @@
 [Desktop Entry]
 Name=By the water
+Name[ca]=Per l'aigua
+Name[ca@valencia]=Per l'aigua
+Name[gl]=Canda a auga
+Name[nl]=Aan de waterkant
+Name[pt]=Na água
+Name[pt_BR]=Pela Água
+Name[sv]=Vid vattnet
+Name[uk]=За водою
+Name[x-test]=xxBy the waterxx
 X-KDE-PluginInfo-Name=BytheWater
 X-KDE-PluginInfo-Author=Maciej Wiklo
 X-KDE-PluginInfo-Email=mwiklo@yandex.com

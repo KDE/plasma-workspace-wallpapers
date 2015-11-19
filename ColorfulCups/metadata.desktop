@@ -1,5 +1,14 @@
 [Desktop Entry]
 Name=Colorful Cups
+Name[ca]=Tasses de colors
+Name[ca@valencia]=Tasses de colors
+Name[gl]=Cuncas de cores
+Name[nl]=Kleurrijke koppen
+Name[pt]=Copos Coloridos
+Name[pt_BR]=Copos Coloridos
+Name[sv]=Färgglada koppar
+Name[uk]=Кольорові чашки
+Name[x-test]=xxColorful Cupsxx
 X-KDE-PluginInfo-Name=ColorfulCups
 X-KDE-PluginInfo-Author=Dmitri Popov
 X-KDE-PluginInfo-Email=dmpop@linux.com
