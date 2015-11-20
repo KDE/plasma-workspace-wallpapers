@@ -1,5 +1,12 @@
 [Desktop Entry]
 Name=summer 1am
+Name[gl]=Verán á 1 da madrugada
+Name[nl]=zomer één uur 's-middags
+Name[pt]=Verão às 01h00
+Name[pt_BR]=Verão às 01h00
+Name[sv]=Sommar klockan 1 på natten
+Name[uk]=Літо, полудень
+Name[x-test]=xxsummer 1amxx
 X-KDE-PluginInfo-Name=summer_1am
 X-KDE-PluginInfo-Author=Risto Saukonpää
 X-KDE-PluginInfo-Email=paristo@gmail.com
