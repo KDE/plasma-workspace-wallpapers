@@ -1,7 +1,11 @@
 [Desktop Entry]
 Name=summer 1am
 Name[ca]=Estiu a la 1 de la matinada
+Name[ca@valencia]=estiu 1am
+Name[da]=summer 1am
 Name[en_GB]=summer 1am
+Name[es]=Verano a la una de la madrugada
+Name[fi]=Kesäyö yhden aikaan
 Name[gl]=Verán á 1 da madrugada
 Name[nl]=zomer één uur 's-middags
 Name[pl]=lato 1am
@@ -10,6 +14,7 @@ Name[pt_BR]=Verão às 01h00
 Name[sv]=Sommar klockan 1 på natten
 Name[uk]=Літо, полудень
 Name[x-test]=xxsummer 1amxx
+Name[zh_TW]=夏夜凌晨
 X-KDE-PluginInfo-Name=summer_1am
 X-KDE-PluginInfo-Author=Risto Saukonpää
 X-KDE-PluginInfo-Email=paristo@gmail.com
