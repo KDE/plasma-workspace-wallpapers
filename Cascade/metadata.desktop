@@ -1,5 +1,11 @@
 [Desktop Entry]
 Name=Cascade
+Name[ca]=Cascade
+Name[nl]=Cascade
+Name[pt]=Cascata
+Name[sv]=Kaskad
+Name[uk]=Уступи
+Name[x-test]=xxCascadexx
 
 X-KDE-PluginInfo-Name=Cascade
 X-KDE-PluginInfo-Author=KDE Visual Design Group

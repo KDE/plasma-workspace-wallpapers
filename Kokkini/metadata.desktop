@@ -1,5 +1,11 @@
 [Desktop Entry]
 Name=Kokkini
+Name[ca]=Kokkini
+Name[nl]=Kokkini
+Name[pt]=Kokkini
+Name[sv]=Kokkini
+Name[uk]=Коккіні
+Name[x-test]=xxKokkinixx
 
 X-KDE-PluginInfo-Name=Kokkini
 X-KDE-PluginInfo-Author=KDE Visual Design Group

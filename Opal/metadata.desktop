@@ -1,5 +1,11 @@
 [Desktop Entry]
 Name=Opal
+Name[ca]=Opal
+Name[nl]=Opal
+Name[pt]=Opala
+Name[sv]=Opal
+Name[uk]=Опал
+Name[x-test]=xxOpalxx
 
 X-KDE-PluginInfo-Name=Opal
 X-KDE-PluginInfo-Author=KDE Visual Design Group
