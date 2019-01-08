@@ -1,11 +1,13 @@
 [Desktop Entry]
 Name=Canopée
 Name[ca]=Canopée
+Name[ca@valencia]=Canopée
 Name[nl]=Canopée
 Name[pt]=Canopée
 Name[sv]=Canopée
 Name[uk]=Канапа
 Name[x-test]=xxCanopéexx
+Name[zh_TW]=Canopée
 
 X-KDE-PluginInfo-Name=Canopée
 X-KDE-PluginInfo-Author=KDE Visual Design Group
