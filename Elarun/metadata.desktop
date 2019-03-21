@@ -1,5 +1,12 @@
 [Desktop Entry]
 Name=Elarun
+Name[ca]=Elarun
+Name[fr]=Elarun
+Name[nl]=Elarun
+Name[sv]=Elarun
+Name[uk]=Ілеран
+Name[x-test]=xxElarunxx
+Name[zh_TW]=Elarun
 
 X-KDE-PluginInfo-Name=Elarun
 X-KDE-PluginInfo-Author=Nuno Pinheiro
