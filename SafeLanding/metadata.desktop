@@ -1,5 +1,12 @@
 [Desktop Entry]
 Name=Safe Landing
+Name[ca]=Aterratge segur
+Name[es]=Aterrizaje seguro
+Name[nl]=Veilige landing
+Name[pt]=Aterragem Suave
+Name[sv]=Säker landning
+Name[uk]=Безпечне приземлення
+Name[x-test]=xxSafe Landingxx
 X-KDE-PluginInfo-Name=SafeLanding
 X-KDE-PluginInfo-Author=Louis Durrant
 X-KDE-PluginInfo-Email=louisfoss@disroot.org
