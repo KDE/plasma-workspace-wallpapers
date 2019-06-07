@@ -1,5 +1,11 @@
 [Desktop Entry]
 Name=Cluster
+Name[ca]=Cúmul
+Name[es]=Cúmulo
+Name[nl]=Cluster
+Name[pt]=Enxame
+Name[uk]=Скупчення
+Name[x-test]=xxClusterxx
 X-KDE-PluginInfo-Name=Cluster
 X-KDE-PluginInfo-Author=KDE Visual Design Group
 X-KDE-PluginInfo-Email=
