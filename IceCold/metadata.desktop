@@ -1,5 +1,11 @@
 [Desktop Entry]
 Name=Ice Cold
+Name[ca]=Gel fred
+Name[et]=Jäine külm
+Name[eu]=Izotza bezain hotza
+Name[sv]=Iskall
+Name[uk]=Льодяний холод
+Name[x-test]=xxIce Coldxx
 
 X-KDE-PluginInfo-Name=Ice Cold
 X-KDE-PluginInfo-Author=Santiago Cézar
