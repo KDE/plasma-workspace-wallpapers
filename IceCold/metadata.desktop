@@ -7,9 +7,11 @@ Name[eu]=Izotza bezain hotza
 Name[nl]=IJskoud
 Name[pt]=Frio Gelado
 Name[pt_BR]=Gelado
+Name[sk]=Ľadovo chladný
 Name[sv]=Iskall
 Name[uk]=Льодяний холод
 Name[x-test]=xxIce Coldxx
+Name[zh_TW]=冷冰
 
 X-KDE-PluginInfo-Name=Ice Cold
 X-KDE-PluginInfo-Author=Santiago Cézar
