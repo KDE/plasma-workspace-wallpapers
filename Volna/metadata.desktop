@@ -1,5 +1,12 @@
 [Desktop Entry]
 Name=Volna
+Name[ca]=Volna
+Name[et]=Volna
+Name[nl]=Volna
+Name[pt]=Volna
+Name[sv]=Volna
+Name[uk]=Хвиля
+Name[x-test]=xxVolnaxx
 
 X-KDE-PluginInfo-Name=Volna
 X-KDE-PluginInfo-Author=Nikita Babin
