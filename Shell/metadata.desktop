@@ -1,5 +1,15 @@
 [Desktop Entry]
 Name=Shell
+Name[ca]=Shell
+Name[es]=Shell
+Name[eu]=Oskola
+Name[hu]=Kagylóhéj
+Name[ia]=Shell (Concha)
+Name[nl]=Shell
+Name[sk]=Ulita
+Name[sv]=Skal
+Name[uk]=Черепашка
+Name[x-test]=xxShellxx
 
 X-KDE-PluginInfo-Name=Next
 X-KDE-PluginInfo-Author=Lucas Andrade
