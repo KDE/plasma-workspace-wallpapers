@@ -5,6 +5,7 @@ Name[ca]=Via Làctia
 Name[cs]=Mléčná dráha
 Name[de]=Milchstraße
 Name[es]=Vía Láctea
+Name[fr]=Voie lactée
 Name[ia]=Milky Way (Via Lactee)
 Name[it]=Via Lattea
 Name[ko]=은하수
@@ -17,6 +18,7 @@ Name[sl]=Mlečna cesta
 Name[sv]=Vintergatan
 Name[uk]=Чумацький Шлях
 Name[x-test]=xxMilky Wayxx
+Name[zh_CN]=Milky Way 银河
 
 X-KDE-PluginInfo-Name=Milky Way
 X-KDE-PluginInfo-Author=ruvkr
