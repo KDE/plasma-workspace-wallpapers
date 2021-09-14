@@ -1,5 +1,11 @@
 [Desktop Entry]
 Name=Altai
+Name[ca]=Altai
+Name[es]=Altai
+Name[eu]=Altai
+Name[nl]=Altai
+Name[uk]=Алтай
+Name[x-test]=xxAltaixx
 
 X-KDE-PluginInfo-Name=Next
 X-KDE-PluginInfo-Author=Alesya Khoteeva
