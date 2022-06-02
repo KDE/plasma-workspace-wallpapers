@@ -1,5 +1,12 @@
 [Desktop Entry]
 Name=Honeywave
+Name[ca]=Honeywave
+Name[es]=Honeywave
+Name[nl]=Honeywave
+Name[sv]=Honungsvåg
+Name[tr]=Bal Dalgası
+Name[uk]=Медова хвиля
+Name[x-test]=xxHoneywavexx
 
 X-KDE-PluginInfo-Name=Next
 X-KDE-PluginInfo-Author=Ken Vermette
