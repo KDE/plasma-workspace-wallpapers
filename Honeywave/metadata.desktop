@@ -1,5 +1,13 @@
 [Desktop Entry]
 Name=Honeywave
+Name[ca]=Honeywave
+Name[ca@valencia]=Honeywave
+Name[es]=Honeywave
+Name[fr]=Onde de miel
+Name[nl]=Honeywave
+Name[ru]=Медовая волна
+Name[uk]=Медова хвиля
+Name[x-test]=xxHoneywavexx
 
 X-KDE-PluginInfo-Name=Next
 X-KDE-PluginInfo-Author=Ken Vermette
