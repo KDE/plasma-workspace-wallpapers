@@ -6,7 +6,7 @@ cmake_minimum_required(VERSION 3.16)
 include(WriteBasicConfigVersionFile)
 include(FeatureSummary)
 
-set(KF5_MIN_VERSION "5.86")
+set(KF5_MIN_VERSION "5.94")
 set(KDE_COMPILERSETTINGS_LEVEL "5.82")
 
 find_package(ECM ${KF5_MIN_VERSION} REQUIRED NO_MODULE)
