@@ -1,0 +1,50 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Ken Vermette"
+            }
+        ],
+        "Id": "Kokkini",
+        "License": "LGPLv3",
+        "Name": "Kokkini",
+        "Name[ar]": "كوكيني",
+        "Name[az]": "Kokkini",
+        "Name[ca@valencia]": "Kokkini",
+        "Name[ca]": "Kokkini",
+        "Name[cs]": "Kokkini",
+        "Name[da]": "Kokkini",
+        "Name[de]": "Kokkini",
+        "Name[en_GB]": "Kokkini",
+        "Name[es]": "Kokkini",
+        "Name[et]": "Kokkini",
+        "Name[eu]": "Kokkini",
+        "Name[fi]": "Kokkini",
+        "Name[fr]": "Kokkini",
+        "Name[gl]": "Kokkini",
+        "Name[hi]": "कोक्किनी",
+        "Name[hu]": "Kokkini",
+        "Name[ia]": "Kokkini",
+        "Name[id]": "Kokkini",
+        "Name[it]": "Rosso",
+        "Name[ko]": "코키니",
+        "Name[lt]": "Kokkini",
+        "Name[nl]": "Kokkini",
+        "Name[nn]": "Kokkini",
+        "Name[pl]": "Kokkini",
+        "Name[pt]": "Kokkini",
+        "Name[pt_BR]": "Kokkini",
+        "Name[ro]": "Kokkini",
+        "Name[ru]": "Коккини",
+        "Name[sk]": "Kokkini",
+        "Name[sl]": "Kokkini",
+        "Name[sv]": "Kokkini",
+        "Name[tg]": "Русто",
+        "Name[tr]": "Kokkini",
+        "Name[uk]": "Коккіні",
+        "Name[x-test]": "xxKokkinixx",
+        "Name[zh_CN]": "Kokkini 红岸",
+        "Name[zh_TW]": "Kokkini"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Ken Vermette"
+            }
+        ],
+        "Id": "Canopée",
+        "License": "LGPLv3",
+        "Name": "Canopée",
+        "Name[ar]": "كانوبي",
+        "Name[az]": "Çadır",
+        "Name[ca@valencia]": "Canopée",
+        "Name[ca]": "Canopée",
+        "Name[cs]": "Canopus",
+        "Name[da]": "Canopée",
+        "Name[de]": "Canopée",
+        "Name[en_GB]": "Canopée",
+        "Name[es]": "Techo forestal",
+        "Name[et]": "Kanapee",
+        "Name[eu]": "Canopée",
+        "Name[fi]": "Canopée",
+        "Name[fr]": "Canopée",
+        "Name[gl]": "Dosel forestal",
+        "Name[hi]": "मंडप",
+        "Name[hu]": "Canopée",
+        "Name[ia]": "Canopée",
+        "Name[id]": "Canopée",
+        "Name[it]": "Baldacchino",
+        "Name[ko]": "캐노피",
+        "Name[lt]": "Skliautas",
+        "Name[nl]": "Canopée",
+        "Name[nn]": "Canopée",
+        "Name[pl]": "Canopée",
+        "Name[pt]": "Canopée",
+        "Name[pt_BR]": "Marquise",
+        "Name[ro]": "Canopée",
+        "Name[ru]": "Купол",
+        "Name[sk]": "Canopée",
+        "Name[sl]": "Drevesna krošnja",
+        "Name[sv]": "Canopée",
+        "Name[tg]": "Маҷмӯа",
+        "Name[tr]": "Gölgelik",
+        "Name[uk]": "Канапа",
+        "Name[x-test]": "xxCanopéexx",
+        "Name[zh_CN]": "Canopée 华盖",
+        "Name[zh_TW]": "Canopée"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "Ken Vermette <vermette@gmail.com>",
+                "Name": "Ken Vermette"
+            }
+        ],
+        "Id": "Next",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Honeywave",
+        "Name[ar]": "موجة العسل",
+        "Name[az]": "Bal dalğası",
+        "Name[ca@valencia]": "Honeywave",
+        "Name[ca]": "Honeywave",
+        "Name[cs]": "Vlna medu",
+        "Name[de]": "Honeywave",
+        "Name[en_GB]": "Honeywave",
+        "Name[es]": "Honeywave",
+        "Name[eu]": "Honeywave",
+        "Name[fi]": "Hunaja-aalto",
+        "Name[fr]": "Onde de miel",
+        "Name[ia]": "Honeywave",
+        "Name[it]": "Honeywave",
+        "Name[ko]": "허니웨이브",
+        "Name[nl]": "Honeywave",
+        "Name[nn]": "Honningbølgje",
+        "Name[pl]": "Fala miodu",
+        "Name[pt]": "Onda de Mel",
+        "Name[pt_BR]": "Onda de mel",
+        "Name[ro]": "Honeywave",
+        "Name[ru]": "Медовая волна",
+        "Name[sk]": "Medová vlna",
+        "Name[sl]": "Medeni val",
+        "Name[sv]": "Honungsvåg",
+        "Name[tr]": "Bal Dalgası",
+        "Name[uk]": "Медова хвиля",
+        "Name[x-test]": "xxHoneywavexx",
+        "Name[zh_CN]": "Honeywave 金波"
+    }
+}
