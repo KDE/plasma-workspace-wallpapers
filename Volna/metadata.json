@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "raveomelette@gmail.com",
-                "Name": "Nikita Babin"
+                "Name": "Nikita Babin",
+                "Name[az]": "Nikita Babin",
+                "Name[ca@valencia]": "Nikita Babin",
+                "Name[ca]": "Nikita Babin",
+                "Name[nn]": "Nikita Babin",
+                "Name[pt]": "Nikita Babin",
+                "Name[tr]": "Nikita Babin",
+                "Name[uk]": "Нікіта Бабін",
+                "Name[x-test]": "xxNikita Babinxx"
             }
         ],
         "Id": "Volna",

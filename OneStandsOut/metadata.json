@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "paristo@gmail.com",
-                "Name": "Risto Saukonpää"
+                "Name": "Risto Saukonpää",
+                "Name[az]": "Risto Saukonpää",
+                "Name[ca@valencia]": "Risto Saukonpää",
+                "Name[ca]": "Risto Saukonpää",
+                "Name[nn]": "Risto Saukonpää",
+                "Name[pt]": "Risto Saukonpää",
+                "Name[tr]": "Risto Saukonpää",
+                "Name[uk]": "Рісто Сауконпаа",
+                "Name[x-test]": "xxRisto Saukonpääxx"
             }
         ],
         "Id": "OneStandsOut",

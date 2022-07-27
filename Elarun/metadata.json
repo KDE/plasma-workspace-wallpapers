@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "",
-                "Name": "Nuno Pinheiro"
+                "Name": "Nuno Pinheiro",
+                "Name[az]": "Nuno Pinheiro",
+                "Name[ca@valencia]": "Nuno Pinheiro",
+                "Name[ca]": "Nuno Pinheiro",
+                "Name[nn]": "Nuno Pinheiro",
+                "Name[pt]": "Nuno Pinheiro",
+                "Name[tr]": "Nuno Pinheiro",
+                "Name[uk]": "Нуно Пінейро",
+                "Name[x-test]": "xxNuno Pinheiroxx"
             }
         ],
         "Id": "Elarun",

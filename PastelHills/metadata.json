@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "",
-                "Name": "Lionel"
+                "Name": "Lionel",
+                "Name[az]": "Lionel",
+                "Name[ca@valencia]": "Lionel",
+                "Name[ca]": "Lionel",
+                "Name[nn]": "Lionel",
+                "Name[pt]": "Lionel",
+                "Name[tr]": "Lionel",
+                "Name[uk]": "Ліонель",
+                "Name[x-test]": "xxLionelxx"
             }
         ],
         "Id": "PastelHills",

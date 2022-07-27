@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "rjquiralte@gmail.com",
-                "Name": "RJ Quiralta"
+                "Name": "RJ Quiralta",
+                "Name[az]": "RJ Quiralta",
+                "Name[ca@valencia]": "RJ Quiralta",
+                "Name[ca]": "RJ Quiralta",
+                "Name[nn]": "RJ Quiralta",
+                "Name[pt]": "RJ Quiralta",
+                "Name[tr]": "RJ Quiralta",
+                "Name[uk]": "RJ Quiralta",
+                "Name[x-test]": "xxRJ Quiraltaxx"
             }
         ],
         "Id": "Autumn",

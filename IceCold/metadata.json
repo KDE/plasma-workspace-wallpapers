@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "santiagocezar2013@gmail.com",
-                "Name": "Santiago Cézar"
+                "Name": "Santiago Cézar",
+                "Name[az]": "Santiago Cézar",
+                "Name[ca@valencia]": "Santiago Cézar",
+                "Name[ca]": "Santiago Cézar",
+                "Name[nn]": "Santiago Cézar",
+                "Name[pt]": "Santiago Cézar",
+                "Name[tr]": "Santiago Cézar",
+                "Name[uk]": "Сантьяго Сезар",
+                "Name[x-test]": "xxSantiago Cézarxx"
             }
         ],
         "Id": "Ice Cold",

@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "mwiklo@yandex.com",
-                "Name": "Maciej Wiklo"
+                "Name": "Maciej Wiklo",
+                "Name[az]": "Maciej Wiklo",
+                "Name[ca@valencia]": "Maciej Wiklo",
+                "Name[ca]": "Maciej Wiklo",
+                "Name[nn]": "Maciej Wiklo",
+                "Name[pt]": "Maciej Wiklo",
+                "Name[tr]": "Maciej Wiklo",
+                "Name[uk]": "Мацей Вілко",
+                "Name[x-test]": "xxMaciej Wikloxx"
             }
         ],
         "Id": "BytheWater",

@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "sigi-sagi@gmx.de",
-                "Name": "Sigi Sagi"
+                "Name": "Sigi Sagi",
+                "Name[az]": "Sigi Sagi",
+                "Name[ca@valencia]": "Sigi Sagi",
+                "Name[ca]": "Sigi Sagi",
+                "Name[nn]": "Sigi Sagi",
+                "Name[pt]": "Sigi Sagi",
+                "Name[tr]": "Sigi Sagi",
+                "Name[uk]": "Сігі Сагі",
+                "Name[x-test]": "xxSigi Sagixx"
             }
         ],
         "Id": "Grey",

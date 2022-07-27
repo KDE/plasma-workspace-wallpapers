@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "luwx@hotmail.com.br",
-                "Name": "Lucas Andrade"
+                "Name": "Lucas Andrade",
+                "Name[az]": "Lucas Andrade",
+                "Name[ca@valencia]": "Lucas Andrade",
+                "Name[ca]": "Lucas Andrade",
+                "Name[nn]": "Lucas Andrade",
+                "Name[pt]": "Lucas Andrade",
+                "Name[tr]": "Lucas Andrade",
+                "Name[uk]": "Лукас Андраде",
+                "Name[x-test]": "xxLucas Andradexx"
             }
         ],
         "Id": "Next",

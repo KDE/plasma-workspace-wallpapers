@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "mklapetek@kde.org",
-                "Name": "Martin Klapetek"
+                "Name": "Martin Klapetek",
+                "Name[az]": "Martin Klapetek",
+                "Name[ca@valencia]": "Martin Klapetek",
+                "Name[ca]": "Martin Klapetek",
+                "Name[nn]": "Martin Klapetek",
+                "Name[pt]": "Martin Klapetek",
+                "Name[tr]": "Martin Klapetek",
+                "Name[uk]": "Martin Klapetek",
+                "Name[x-test]": "xxMartin Klapetekxx"
             }
         ],
         "Id": "FallenLeaf",

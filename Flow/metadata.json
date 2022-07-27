@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "pewmuffin@gmail.com",
-                "Name": "Sandra Smukaste"
+                "Name": "Sandra Smukaste",
+                "Name[az]": "Sandra Smukaste",
+                "Name[ca@valencia]": "Sandra Smukaste",
+                "Name[ca]": "Sandra Smukaste",
+                "Name[nn]": "Sandra Smukaste",
+                "Name[pt]": "Sandra Smukaste",
+                "Name[tr]": "Sandra Smukaste",
+                "Name[uk]": "Сандра Смукасте",
+                "Name[x-test]": "xxSandra Smukastexx"
             }
         ],
         "Id": "Flow",

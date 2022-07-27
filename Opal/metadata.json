@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "",
-                "Name": "Ken Vermette"
+                "Name": "Ken Vermette",
+                "Name[az]": "Ken Vermette",
+                "Name[ca@valencia]": "Ken Vermette",
+                "Name[ca]": "Ken Vermette",
+                "Name[nn]": "Ken Vermette",
+                "Name[pt]": "Ken Vermette",
+                "Name[tr]": "Ken Vermette",
+                "Name[uk]": "Ken Vermette",
+                "Name[x-test]": "xxKen Vermettexx"
             }
         ],
         "Id": "Opal",

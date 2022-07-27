@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "dmpop@linux.com",
-                "Name": "Dmitri Popov"
+                "Name": "Dmitri Popov",
+                "Name[az]": "Dmitri Popov",
+                "Name[ca@valencia]": "Dmitri Popov",
+                "Name[ca]": "Dmitri Popov",
+                "Name[nn]": "Dmitri Popov",
+                "Name[pt]": "Dmitri Popov",
+                "Name[tr]": "Dmitri Popov",
+                "Name[uk]": "Дмітрій Попов",
+                "Name[x-test]": "xxDmitri Popovxx"
             }
         ],
         "Id": "ColorfulCups",

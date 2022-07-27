@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "alesyahoteeva@gmail.com",
-                "Name": "Alesya Khoteeva"
+                "Name": "Alesya Khoteeva",
+                "Name[az]": "Alesya Khoteeva",
+                "Name[ca@valencia]": "Alesya Khoteeva",
+                "Name[ca]": "Alesya Khoteeva",
+                "Name[nn]": "Alesya Khoteeva",
+                "Name[pt]": "Alesya Khoteeva",
+                "Name[tr]": "Alesya Hoteeva",
+                "Name[uk]": "Алєся Хотєєва",
+                "Name[x-test]": "xxAlesya Khoteevaxx"
             }
         ],
         "Id": "Next",

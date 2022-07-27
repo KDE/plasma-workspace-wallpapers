@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "animtim@gmail.com",
-                "Name": "Timothée Giet"
+                "Name": "Timothée Giet",
+                "Name[az]": "Timothée Giet",
+                "Name[ca@valencia]": "Timothée Giet",
+                "Name[ca]": "Timothée Giet",
+                "Name[nn]": "Timothée Giet",
+                "Name[pt]": "Timothée Giet",
+                "Name[tr]": "Timothée Giet",
+                "Name[uk]": "Timothée Giet",
+                "Name[x-test]": "xxTimothée Gietxx"
             }
         ],
         "Id": "FlyingKonqui",

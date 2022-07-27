@@ -3,7 +3,15 @@
         "Authors": [
             {
                 "Email": "universalemail.gm@gmail.com",
-                "Name": "ruvkr"
+                "Name": "ruvkr",
+                "Name[az]": "ruvkr",
+                "Name[ca@valencia]": "ruvkr",
+                "Name[ca]": "ruvkr",
+                "Name[nn]": "ruvkr",
+                "Name[pt]": "ruvkr",
+                "Name[tr]": "ruvkr",
+                "Name[uk]": "ruvkr",
+                "Name[x-test]": "xxruvkrxx"
             }
         ],
         "Id": "Milky Way",
