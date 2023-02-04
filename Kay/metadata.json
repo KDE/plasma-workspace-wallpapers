@@ -36,6 +36,13 @@
         ],
         "Id": "Next",
         "License": "CC-BY-SA-4.0",
-        "Name": "Kay"
+        "Name": "Kay",
+        "Name[ca]": "Kay",
+        "Name[cs]": "Kay",
+        "Name[es]": "Kay",
+        "Name[eu]": "Kay",
+        "Name[tr]": "Kay",
+        "Name[uk]": "Кей",
+        "Name[x-test]": "xxKayxx"
     }
 }
