@@ -1,6 +1,6 @@
 project(wallpapers)
 set(PROJECT_VERSION "5.27.80")
-set(PROJECT_VERSION_MAJOR 5)
+set(PROJECT_VERSION_MAJOR 6)
 cmake_minimum_required(VERSION 3.16)
 
 include(WriteBasicConfigVersionFile)
