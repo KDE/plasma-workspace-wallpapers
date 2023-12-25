@@ -39,7 +39,8 @@
                 "Name[tr]": "Lionel",
                 "Name[uk]": "Ліонель",
                 "Name[x-test]": "xxLionelxx",
-                "Name[zh_CN]": "Lionel"
+                "Name[zh_CN]": "Lionel",
+                "Name[zh_TW]": "Lionel"
             }
         ],
         "Id": "PastelHills",

@@ -40,7 +40,8 @@
                 "Name[tr]": "Alesya Hoteeva",
                 "Name[uk]": "Алєся Хотєєва",
                 "Name[x-test]": "xxAlesya Khoteevaxx",
-                "Name[zh_CN]": "Alesya Khoteeva"
+                "Name[zh_CN]": "Alesya Khoteeva",
+                "Name[zh_TW]": "Alesya Khoteeva"
             }
         ],
         "Id": "Next",
@@ -84,6 +85,7 @@
         "Name[tr]": "Altay",
         "Name[uk]": "Алтай",
         "Name[x-test]": "xxAltaixx",
-        "Name[zh_CN]": "Altai 远山"
+        "Name[zh_CN]": "Altai 远山",
+        "Name[zh_TW]": "Altai"
     }
 }

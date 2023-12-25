@@ -39,7 +39,8 @@
                 "Name[tr]": "Dmitri Popov",
                 "Name[uk]": "Дмітрій Попов",
                 "Name[x-test]": "xxDmitri Popovxx",
-                "Name[zh_CN]": "Dmitri Popov"
+                "Name[zh_CN]": "Dmitri Popov",
+                "Name[zh_TW]": "Dmitri Popov"
             }
         ],
         "Id": "ColorfulCups",

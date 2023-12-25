@@ -38,7 +38,8 @@
                 "Name[tr]": "ruvkr",
                 "Name[uk]": "ruvkr",
                 "Name[x-test]": "xxruvkrxx",
-                "Name[zh_CN]": "ruvkr"
+                "Name[zh_CN]": "ruvkr",
+                "Name[zh_TW]": "ruvkr"
             }
         ],
         "Id": "Milky Way",
@@ -82,6 +83,7 @@
         "Name[tr]": "Samanyolu",
         "Name[uk]": "Чумацький Шлях",
         "Name[x-test]": "xxMilky Wayxx",
-        "Name[zh_CN]": "Milky Way 银河"
+        "Name[zh_CN]": "Milky Way 银河",
+        "Name[zh_TW]": "銀河系"
     }
 }

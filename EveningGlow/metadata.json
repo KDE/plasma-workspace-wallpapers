@@ -38,7 +38,8 @@
                 "Name[tr]": "Ian Hex",
                 "Name[uk]": "Ян Гекс",
                 "Name[x-test]": "xxIan Hexxx",
-                "Name[zh_CN]": "Ian Hex"
+                "Name[zh_CN]": "Ian Hex",
+                "Name[zh_TW]": "Ian Hex"
             }
         ],
         "Id": "EveningGlow",
