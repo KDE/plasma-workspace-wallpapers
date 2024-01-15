@@ -4,16 +4,20 @@
             {
                 "Email": "louisfoss@disroot.org",
                 "Name": "Louis Durrant",
+                "Name[ca@valencia]": "Louis Durrant",
                 "Name[ca]": "Louis Durrant",
                 "Name[eo]": "Louis Durrant",
+                "Name[es]": "Louis Durrant",
                 "Name[eu]": "Louis Durrant",
+                "Name[hu]": "Louis Durrant",
                 "Name[ka]": "ლუის დურანი",
                 "Name[lt]": "Louis Durrant",
                 "Name[nl]": "Louis Durrant",
                 "Name[sl]": "Louis Durrant",
                 "Name[tr]": "Louis Durrant",
                 "Name[uk]": "Louis Durrant",
-                "Name[x-test]": "xxLouis Durrantxx"
+                "Name[x-test]": "xxLouis Durrantxx",
+                "Name[zh_TW]": "Louis Durrant"
             }
         ],
         "Id": "SafeLanding",
@@ -21,6 +25,7 @@
         "Name": "Safe Landing",
         "Name[ar]": "هبوط آمن",
         "Name[az]": "Yumşaq Eniş",
+        "Name[ca@valencia]": "Aterratge segur",
         "Name[ca]": "Aterratge segur",
         "Name[da]": "Sikker landing",
         "Name[de]": "Sichere Landung",
