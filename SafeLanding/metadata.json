@@ -18,10 +18,12 @@
                 "Name[ka]": "ლუის დურანი",
                 "Name[lt]": "Louis Durrant",
                 "Name[nl]": "Louis Durrant",
+                "Name[pl]": "Louis Durrant",
                 "Name[sl]": "Louis Durrant",
                 "Name[tr]": "Louis Durrant",
                 "Name[uk]": "Louis Durrant",
                 "Name[x-test]": "xxLouis Durrantxx",
+                "Name[zh_CN]": "Louis Durrant",
                 "Name[zh_TW]": "Louis Durrant"
             }
         ],
@@ -64,6 +66,7 @@
         "Name[tr]": "Güvenli İniş",
         "Name[uk]": "Безпечне приземлення",
         "Name[x-test]": "xxSafe Landingxx",
+        "Name[zh_CN]": "Safe Landing 着陆",
         "Name[zh_TW]": "Safe Landing"
     }
 }
