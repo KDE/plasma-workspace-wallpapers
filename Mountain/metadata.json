@@ -3,12 +3,30 @@
         "Authors": [
             {
                 "Email": "anditosan@kde.org",
-                "Name": "Andy Betts"
+                "Name": "Andy Betts",
+                "Name[ca@valencia]": "Andy Betts",
+                "Name[ca]": "Andy Betts",
+                "Name[es]": "Andy Betts",
+                "Name[eu]": "Andy Betts",
+                "Name[gl]": "Andy Betts",
+                "Name[hu]": "Andy Betts",
+                "Name[lt]": "Andy Betts",
+                "Name[tr]": "Andy Betts",
+                "Name[zh_TW]": "Andy Betts"
             }
         ],
         "Id": "Next",
         "License": "CC-BY-SA-4.0",
-        "Name": "Mountain"
+        "Name": "Mountain",
+        "Name[ca@valencia]": "Muntanya",
+        "Name[ca]": "Muntanya",
+        "Name[es]": "Montaña",
+        "Name[eu]": "Mendia",
+        "Name[gl]": "Montaña",
+        "Name[hu]": "Hegy",
+        "Name[lt]": "Kalnas",
+        "Name[tr]": "Dağ",
+        "Name[zh_TW]": "山脈"
     },
     "X-KDE-PlasmaImageWallpaper-AccentColor": {
         "Dark": "#018786",
