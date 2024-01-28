@@ -20,6 +20,7 @@
                 "Name[lt]": "Louis Durrant",
                 "Name[nl]": "Louis Durrant",
                 "Name[pl]": "Louis Durrant",
+                "Name[ru]": "Louis Durrant",
                 "Name[sl]": "Louis Durrant",
                 "Name[tr]": "Louis Durrant",
                 "Name[uk]": "Louis Durrant",
@@ -69,6 +70,6 @@
         "Name[uk]": "Безпечне приземлення",
         "Name[x-test]": "xxSafe Landingxx",
         "Name[zh_CN]": "Safe Landing 着陆",
-        "Name[zh_TW]": "Safe Landing"
+        "Name[zh_TW]": "安全降落"
     }
 }
