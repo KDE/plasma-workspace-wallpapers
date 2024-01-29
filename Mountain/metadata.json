@@ -4,6 +4,7 @@
             {
                 "Email": "anditosan@kde.org",
                 "Name": "Andy Betts",
+                "Name[bg]": "Andy Betts",
                 "Name[ca@valencia]": "Andy Betts",
                 "Name[ca]": "Andy Betts",
                 "Name[es]": "Andy Betts",
@@ -12,6 +13,7 @@
                 "Name[gl]": "Andy Betts",
                 "Name[hu]": "Andy Betts",
                 "Name[lt]": "Andy Betts",
+                "Name[pl]": "Andy Betts",
                 "Name[sl]": "Andy Betts",
                 "Name[tr]": "Andy Betts",
                 "Name[zh_TW]": "Andy Betts"
@@ -20,6 +22,7 @@
         "Id": "Next",
         "License": "CC-BY-SA-4.0",
         "Name": "Mountain",
+        "Name[bg]": "Mountain",
         "Name[ca@valencia]": "Muntanya",
         "Name[ca]": "Muntanya",
         "Name[es]": "Montaña",
@@ -28,6 +31,7 @@
         "Name[gl]": "Montaña",
         "Name[hu]": "Hegy",
         "Name[lt]": "Kalnas",
+        "Name[pl]": "Góra",
         "Name[sl]": "Gora",
         "Name[tr]": "Dağ",
         "Name[zh_TW]": "山脈"
