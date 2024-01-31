@@ -1,5 +1,5 @@
 project(wallpapers)
-set(PROJECT_VERSION "5.92.90")
+set(PROJECT_VERSION "5.93.0")
 set(PROJECT_VERSION_MAJOR 6)
 cmake_minimum_required(VERSION 3.16)
 
