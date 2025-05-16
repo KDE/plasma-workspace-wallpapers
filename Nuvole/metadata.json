@@ -43,11 +43,15 @@
         "Name[ar]": "نوفول",
         "Name[bg]": "Nuvole",
         "Name[ca]": "Nuvole",
+        "Name[es]": "Nuvole",
+        "Name[eu]": "Nuvole",
         "Name[ia]": "Nuvole",
         "Name[ka]": "Nuvole",
         "Name[nl]": "Nuvole",
         "Name[sl]": "Oblaki",
+        "Name[tr]": "Nuvole",
         "Name[uk]": "Nuvole",
-        "Name[x-test]": "xxNuvolexx"
+        "Name[x-test]": "xxNuvolexx",
+        "Name[zh_CN]": "Nuvole 星云"
     }
 }
