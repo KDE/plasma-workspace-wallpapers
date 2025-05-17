@@ -45,6 +45,8 @@
         "Name[ca]": "Nuvole",
         "Name[es]": "Nuvole",
         "Name[eu]": "Nuvole",
+        "Name[fr]": "Nuvole",
+        "Name[gl]": "Nuvole",
         "Name[ia]": "Nuvole",
         "Name[ka]": "Nuvole",
         "Name[nl]": "Nuvole",
@@ -52,6 +54,7 @@
         "Name[tr]": "Nuvole",
         "Name[uk]": "Nuvole",
         "Name[x-test]": "xxNuvolexx",
-        "Name[zh_CN]": "Nuvole 星云"
+        "Name[zh_CN]": "Nuvole 星云",
+        "Name[zh_TW]": "Nuvole"
     }
 }
