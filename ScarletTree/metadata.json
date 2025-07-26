@@ -82,5 +82,6 @@
         "Name[x-test]": "xxScarlet Treexx",
         "Name[zh_CN]": "Scarlet Tree 红树",
         "Name[zh_TW]": "緋紅木"
-    }
+    },
+    "X-KDE-CrossFade": false
 }
