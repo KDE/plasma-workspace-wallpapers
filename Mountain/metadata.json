@@ -39,7 +39,6 @@
                 "Name[sv]": "Andy Betts",
                 "Name[tr]": "Andy Betts",
                 "Name[uk]": "Енді Беттс",
-                "Name[x-test]": "xxAndy Bettsxx",
                 "Name[zh_CN]": "Andy Betts",
                 "Name[zh_TW]": "Andy Betts"
             }
@@ -83,7 +82,6 @@
         "Name[sv]": "Berg",
         "Name[tr]": "Dağ",
         "Name[uk]": "Гора",
-        "Name[x-test]": "xxMountainxx",
         "Name[zh_CN]": "Mountain 雪峰",
         "Name[zh_TW]": "山脈"
     },

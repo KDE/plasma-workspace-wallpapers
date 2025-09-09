@@ -33,7 +33,6 @@
                 "Name[sv]": "Krystian Zajdel",
                 "Name[tr]": "Krystian Zajdel",
                 "Name[uk]": "Крістіан Зайдель",
-                "Name[x-test]": "xxKrystian Zajdelxx",
                 "Name[zh_CN]": "Krystian Zajdel",
                 "Name[zh_TW]": "Krystian Zajdel"
             }
@@ -70,7 +69,6 @@
         "Name[sv]": "Nexus",
         "Name[tr]": "Çatkı",
         "Name[uk]": "Nexus",
-        "Name[x-test]": "xxNexusxx",
         "Name[zh_CN]": "Nexus 纽带",
         "Name[zh_TW]": "Nexus"
     }

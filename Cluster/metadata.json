@@ -43,7 +43,6 @@
                 "Name[ta]": "கென் வெற்மெட்டு",
                 "Name[tr]": "Ken Vermette",
                 "Name[uk]": "Ken Vermette",
-                "Name[x-test]": "xxKen Vermettexx",
                 "Name[zh_CN]": "Ken Vermette",
                 "Name[zh_TW]": "Ken Vermette"
             }
@@ -94,7 +93,6 @@
         "Name[tg]": "Панҷа",
         "Name[tr]": "Salkım",
         "Name[uk]": "Скупчення",
-        "Name[x-test]": "xxClusterxx",
         "Name[zh_CN]": "Cluster 星团",
         "Name[zh_TW]": "Cluster"
     }

@@ -42,7 +42,6 @@
                 "Name[sv]": "Sigi Sagi",
                 "Name[tr]": "Sigi Sagi",
                 "Name[uk]": "Сігі Сагі",
-                "Name[x-test]": "xxSigi Sagixx",
                 "Name[zh_CN]": "Sigi Sagi",
                 "Name[zh_TW]": "Sigi Sagi"
             }
@@ -97,7 +96,6 @@
         "Name[tg]": "Хокистариранг",
         "Name[tr]": "Gri",
         "Name[uk]": "Сірість",
-        "Name[x-test]": "xxGreyxx",
         "Name[zh_CN]": "Grey 净灰",
         "Name[zh_TW]": "灰色"
     }

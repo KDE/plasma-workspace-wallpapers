@@ -43,7 +43,6 @@
                 "Name[ta]": "லூக்கஸ் அன்றாடே",
                 "Name[tr]": "Lucas Andrade",
                 "Name[uk]": "Лукас Андраде",
-                "Name[x-test]": "xxLucas Andradexx",
                 "Name[zh_CN]": "Lucas Andrade",
                 "Name[zh_TW]": "Lucas Andrade"
             }
@@ -91,7 +90,6 @@
         "Name[sv]": "Skal",
         "Name[tr]": "Kabuk",
         "Name[uk]": "Черепашка",
-        "Name[x-test]": "xxShellxx",
         "Name[zh_CN]": "Shell 彩贝",
         "Name[zh_TW]": "貝殼"
     }

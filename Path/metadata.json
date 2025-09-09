@@ -42,7 +42,6 @@
                 "Name[sv]": "Risto Saukonpää",
                 "Name[tr]": "Risto Saukonpää",
                 "Name[uk]": "Рісто Сауконпаа",
-                "Name[x-test]": "xxRisto Saukonpääxx",
                 "Name[zh_CN]": "Risto Saukonpää",
                 "Name[zh_TW]": "Risto Saukonpää"
             }
@@ -97,7 +96,6 @@
         "Name[tg]": "Пайроҳа",
         "Name[tr]": "Yol",
         "Name[uk]": "Шлях",
-        "Name[x-test]": "xxPathxx",
         "Name[zh_CN]": "Path 林道",
         "Name[zh_TW]": "路徑"
     }
