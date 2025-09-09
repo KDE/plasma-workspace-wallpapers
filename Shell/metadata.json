@@ -37,7 +37,6 @@
                 "Name[sv]": "Lucas Andrade",
                 "Name[tr]": "Lucas Andrade",
                 "Name[uk]": "Лукас Андраде",
-                "Name[x-test]": "xxLucas Andradexx",
                 "Name[zh_CN]": "Lucas Andrade"
             }
         ],
@@ -79,7 +78,6 @@
         "Name[sv]": "Skal",
         "Name[tr]": "Kabuk",
         "Name[uk]": "Черепашка",
-        "Name[x-test]": "xxShellxx",
         "Name[zh_CN]": "Shell 彩贝"
     }
 }

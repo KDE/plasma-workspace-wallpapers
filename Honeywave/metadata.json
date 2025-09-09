@@ -37,7 +37,6 @@
                 "Name[sv]": "Ken Vermette",
                 "Name[tr]": "Ken Vermette",
                 "Name[uk]": "Ken Vermette",
-                "Name[x-test]": "xxKen Vermettexx",
                 "Name[zh_CN]": "Ken Vermette"
             }
         ],
@@ -77,7 +76,6 @@
         "Name[sv]": "Honungsvåg",
         "Name[tr]": "Bal Dalgası",
         "Name[uk]": "Медова хвиля",
-        "Name[x-test]": "xxHoneywavexx",
         "Name[zh_CN]": "Honeywave 金波"
     }
 }

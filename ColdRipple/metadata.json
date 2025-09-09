@@ -37,7 +37,6 @@
                 "Name[sv]": "Risto Saukonpää",
                 "Name[tr]": "Risto Saukonpää",
                 "Name[uk]": "Рісто Сауконпаа",
-                "Name[x-test]": "xxRisto Saukonpääxx",
                 "Name[zh_CN]": "Risto Saukonpää"
             }
         ],
@@ -86,7 +85,6 @@
         "Name[tg]": "Маҳалли пасту баланд",
         "Name[tr]": "Soğuk Dalgalanma",
         "Name[uk]": "Холодні брижі",
-        "Name[x-test]": "xxCold Ripplexx",
         "Name[zh_CN]": "Cold Ripple 寒波",
         "Name[zh_TW]": "水波紋"
     }

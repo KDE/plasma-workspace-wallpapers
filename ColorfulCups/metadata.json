@@ -37,7 +37,6 @@
                 "Name[sv]": "Dmitri Popov",
                 "Name[tr]": "Dmitri Popov",
                 "Name[uk]": "Дмітрій Попов",
-                "Name[x-test]": "xxDmitri Popovxx",
                 "Name[zh_CN]": "Dmitri Popov"
             }
         ],
@@ -87,7 +86,6 @@
         "Name[tg]": "Ҷомҳои рангин",
         "Name[tr]": "Renkli Kupalar",
         "Name[uk]": "Кольорові чашки",
-        "Name[x-test]": "xxColorful Cupsxx",
         "Name[zh_CN]": "Colorful Cups 彩杯",
         "Name[zh_TW]": "彩色杯子"
     }

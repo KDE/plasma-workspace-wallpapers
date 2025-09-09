@@ -37,7 +37,6 @@
                 "Name[sv]": "Timothée Giet",
                 "Name[tr]": "Timothée Giet",
                 "Name[uk]": "Timothée Giet",
-                "Name[x-test]": "xxTimothée Gietxx",
                 "Name[zh_CN]": "Timothée Giet"
             }
         ],
@@ -86,7 +85,6 @@
         "Name[tg]": "Аждаҳои паррон",
         "Name[tr]": "Uçan Konqui",
         "Name[uk]": "Конкі у польоті",
-        "Name[x-test]": "xxFlying Konquixx",
         "Name[zh_CN]": "飞天 Konqi",
         "Name[zh_TW]": "飛翔的 Konqui"
     }
