@@ -42,7 +42,6 @@
                 "Name[sv]": "Santiago Cézar",
                 "Name[tr]": "Santiago Cézar",
                 "Name[uk]": "Сантьяго Сезар",
-                "Name[x-test]": "xxSantiago Cézarxx",
                 "Name[zh_CN]": "Santiago Cézar",
                 "Name[zh_TW]": "Santiago Cézar"
             }
@@ -92,7 +91,6 @@
         "Name[sv]": "Iskall",
         "Name[tr]": "Buz Gibi",
         "Name[uk]": "Льодяний холод",
-        "Name[x-test]": "xxIce Coldxx",
         "Name[zh_CN]": "Ice Cold 冰封",
         "Name[zh_TW]": "冷冰"
     }

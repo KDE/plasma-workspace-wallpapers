@@ -41,7 +41,6 @@
                 "Name[sv]": "Sandra Smukaste",
                 "Name[tr]": "Sandra Smukaste",
                 "Name[uk]": "Сандра Смукасте",
-                "Name[x-test]": "xxSandra Smukastexx",
                 "Name[zh_CN]": "Sandra Smukaste",
                 "Name[zh_TW]": "Sandra Smukaste"
             }
@@ -90,7 +89,6 @@
         "Name[sv]": "Flöde",
         "Name[tr]": "Akış",
         "Name[uk]": "Потік",
-        "Name[x-test]": "xxFlowxx",
         "Name[zh_CN]": "Flow 流彩",
         "Name[zh_TW]": "流動"
     }
