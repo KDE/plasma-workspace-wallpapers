@@ -37,7 +37,8 @@
                 "Name[sv]": "Lucas Andrade",
                 "Name[tr]": "Lucas Andrade",
                 "Name[uk]": "Лукас Андраде",
-                "Name[zh_CN]": "Lucas Andrade"
+                "Name[zh_CN]": "Lucas Andrade",
+                "Name[zh_TW]": "Lucas Andrade"
             }
         ],
         "Id": "Next",
@@ -78,6 +79,7 @@
         "Name[sv]": "Skal",
         "Name[tr]": "Kabuk",
         "Name[uk]": "Черепашка",
-        "Name[zh_CN]": "Shell 彩贝"
+        "Name[zh_CN]": "Shell 彩贝",
+        "Name[zh_TW]": "貝殼"
     }
 }

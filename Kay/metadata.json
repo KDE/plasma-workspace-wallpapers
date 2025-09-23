@@ -36,7 +36,8 @@
                 "Name[sv]": "ruvkr",
                 "Name[tr]": "ruvkr",
                 "Name[uk]": "ruvkr",
-                "Name[zh_CN]": "ruvkr"
+                "Name[zh_CN]": "ruvkr",
+                "Name[zh_TW]": "ruvkr"
             }
         ],
         "Id": "Next",
@@ -71,6 +72,7 @@
         "Name[sv]": "Kay",
         "Name[tr]": "Kay",
         "Name[uk]": "Кей",
-        "Name[zh_CN]": "Kay K 印象"
+        "Name[zh_CN]": "Kay K 印象",
+        "Name[zh_TW]": "Kay"
     }
 }

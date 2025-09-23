@@ -37,7 +37,8 @@
                 "Name[sv]": "Alesya Khoteeva",
                 "Name[tr]": "Alesya Hoteeva",
                 "Name[uk]": "Алєся Хотєєва",
-                "Name[zh_CN]": "Alesya Khoteeva"
+                "Name[zh_CN]": "Alesya Khoteeva",
+                "Name[zh_TW]": "Alesya Khoteeva"
             }
         ],
         "Id": "Next",
@@ -79,6 +80,7 @@
         "Name[sv]": "Altai",
         "Name[tr]": "Altay",
         "Name[uk]": "Алтай",
-        "Name[zh_CN]": "Altai 远山"
+        "Name[zh_CN]": "Altai 远山",
+        "Name[zh_TW]": "Altai"
     }
 }

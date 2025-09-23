@@ -36,7 +36,8 @@
                 "Name[sv]": "Sandra Smukaste",
                 "Name[tr]": "Sandra Smukaste",
                 "Name[uk]": "Сандра Смукасте",
-                "Name[zh_CN]": "Sandra Smukaste"
+                "Name[zh_CN]": "Sandra Smukaste",
+                "Name[zh_TW]": "Sandra Smukaste"
             }
         ],
         "Id": "Flow",
@@ -79,6 +80,7 @@
         "Name[sv]": "Flöde",
         "Name[tr]": "Akış",
         "Name[uk]": "Потік",
-        "Name[zh_CN]": "Flow 流彩"
+        "Name[zh_CN]": "Flow 流彩",
+        "Name[zh_TW]": "流動"
     }
 }
