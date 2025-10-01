@@ -39,6 +39,13 @@
         ],
         "Id": "Next",
         "License": "CC-BY-SA-4.0",
-        "Name": "Coast"
+        "Name": "Coast",
+        "Name[ca@valencia]": "Coast",
+        "Name[ca]": "Coast",
+        "Name[es]": "Costa",
+        "Name[nl]": "Kust",
+        "Name[pt_BR]": "Costa",
+        "Name[sl]": "Obala",
+        "Name[zh_TW]": "海岸"
     }
 }
