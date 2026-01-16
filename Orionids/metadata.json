@@ -43,9 +43,14 @@
         "Id": "Next",
         "License": "CC-BY-SA-4.0",
         "Name": "Orionids",
+        "Name[ar]": "شهب الجباريات",
         "Name[ca]": "Orionids",
+        "Name[es]": "Oriónidas",
+        "Name[it]": "Orionids",
+        "Name[nl]": "Orionids",
         "Name[pt_BR]": "Orionids",
         "Name[tr]": "Orionlular",
-        "Name[uk]": "Оріоніди"
+        "Name[uk]": "Оріоніди",
+        "Name[zh_TW]": "Orionids"
     }
 }
