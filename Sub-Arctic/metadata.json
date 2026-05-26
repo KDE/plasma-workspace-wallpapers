@@ -44,6 +44,16 @@
         ],
         "Id": "Next",
         "License": "CC-BY-SA-4.0",
-        "Name": "Sub-Arctic"
+        "Name": "Sub-Arctic",
+        "Name[ca@valencia]": "Sub-Arctic",
+        "Name[ca]": "Sub-Arctic",
+        "Name[es]": "Subártico",
+        "Name[he]": "תת־ארקטי",
+        "Name[nl]": "Sub-arctisch",
+        "Name[pt_BR]": "Subártico",
+        "Name[sk]": "Subarktický",
+        "Name[sl]": "Sub-arktika",
+        "Name[tr]": "Arktik Altı",
+        "Name[uk]": "Субарктика"
     }
 }
