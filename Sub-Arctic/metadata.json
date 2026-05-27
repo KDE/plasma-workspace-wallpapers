@@ -47,13 +47,17 @@
         "Name": "Sub-Arctic",
         "Name[ca@valencia]": "Sub-Arctic",
         "Name[ca]": "Sub-Arctic",
+        "Name[cs]": "Sub-Arctic",
         "Name[es]": "Subártico",
         "Name[he]": "תת־ארקטי",
+        "Name[ko]": "극지방",
+        "Name[lt]": "Subarktinis",
         "Name[nl]": "Sub-arctisch",
         "Name[pt_BR]": "Subártico",
         "Name[sk]": "Subarktický",
         "Name[sl]": "Sub-arktika",
         "Name[tr]": "Arktik Altı",
-        "Name[uk]": "Субарктика"
+        "Name[uk]": "Субарктика",
+        "Name[zh_CN]": "Sub-Arctic 北国"
     }
 }
