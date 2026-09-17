@@ -51,6 +51,7 @@
         "Name[ca@valencia]": "Waterfall",
         "Name[ca]": "Waterfall",
         "Name[cs]": "Vodopád",
+        "Name[de]": "Wasserfall",
         "Name[es]": "Cascada",
         "Name[fr]": "Cascade",
         "Name[he]": "מפל",
@@ -64,6 +65,7 @@
         "Name[sl]": "Slap",
         "Name[sv]": "Vattenfall",
         "Name[tr]": "Şelâle",
-        "Name[uk]": "Водоспад"
+        "Name[uk]": "Водоспад",
+        "Name[zh_TW]": "瀑布"
     }
 }
