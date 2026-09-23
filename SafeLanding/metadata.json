@@ -41,7 +41,6 @@
                 "Name[sl]": "Louis Durrant",
                 "Name[sv]": "Louis Durrant",
                 "Name[tr]": "Louis Durrant",
-                "Name[ug]": "Louis Durrant",
                 "Name[uk]": "Louis Durrant",
                 "Name[zh_CN]": "Louis Durrant",
                 "Name[zh_TW]": "Louis Durrant"
@@ -93,6 +92,7 @@
         "Name[sv]": "Säker landning",
         "Name[tg]": "Фурудгоҳи бехатар",
         "Name[tr]": "Güvenli İniş",
+        "Name[ug]": "بىخەتەر قونۇش",
         "Name[uk]": "Безпечне приземлення",
         "Name[zh_CN]": "Safe Landing 着陆",
         "Name[zh_TW]": "安全降落"
