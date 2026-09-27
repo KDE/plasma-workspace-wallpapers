@@ -37,6 +37,7 @@
                 "Name[sl]": "Krystian Zajdel",
                 "Name[sv]": "Krystian Zajdel",
                 "Name[tr]": "Krystian Zajdel",
+                "Name[ug]": "Krystian Zajdel",
                 "Name[uk]": "Крістіан Зайдель",
                 "Name[zh_CN]": "Krystian Zajdel",
                 "Name[zh_TW]": "Krystian Zajdel"
@@ -46,12 +47,14 @@
         "License": "CC-BY-SA-4.0",
         "Name": "Waterfall",
         "Name[ar]": "الشَلال",
+        "Name[az]": "Şəlalə",
         "Name[bg]": "Waterfall",
         "Name[ca@valencia]": "Waterfall",
         "Name[ca]": "Waterfall",
         "Name[cs]": "Vodopád",
         "Name[de]": "Wasserfall",
         "Name[es]": "Cascada",
+        "Name[eu]": "Waterfall (ur-jauzia)",
         "Name[fr]": "Cascade",
         "Name[he]": "מפל",
         "Name[ia]": "Cascada",
@@ -67,6 +70,7 @@
         "Name[sl]": "Slap",
         "Name[sv]": "Vattenfall",
         "Name[tr]": "Şelâle",
+        "Name[ug]": "شارقىراتما",
         "Name[uk]": "Водоспад",
         "Name[zh_TW]": "瀑布"
     }
