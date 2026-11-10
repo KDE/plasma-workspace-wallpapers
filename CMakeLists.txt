@@ -17,41 +17,60 @@ include(KDECMakeSettings)
 include(KDECompilerSettings)
 include(GenerateExportHeader)
 
-install(DIRECTORY Autumn DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY BytheWater DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Canopee DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Cascade DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Cluster DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY ColdRipple DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY ColorfulCups DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY DarkestHour DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Elarun DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY EveningGlow DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY FallenLeaf DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY FlyingKonqui DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Grey DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY IceCold DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Kite DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Kokkini DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY OneStandsOut DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Opal DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY PastelHills DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Path DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY SafeLanding DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Shell DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY summer_1am DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Volna DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Flow DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY MilkyWay DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Altai DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Patak DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Honeywave DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Kay DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Mountain DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY ScarletTree DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Nexus DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Nuvole DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Coast DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Orionids DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Sub-Arctic DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
-install(DIRECTORY Waterfall DESTINATION ${KDE_INSTALL_WALLPAPERDIR})
+set(_wallpaper_directories
+    Autumn
+    BytheWater
+    Canopee
+    Cascade
+    Cluster
+    ColdRipple
+    ColorfulCups
+    DarkestHour
+    Elarun
+    EveningGlow
+    FallenLeaf
+    FlyingKonqui
+    Grey
+    IceCold
+    Kite
+    Kokkini
+    OneStandsOut
+    Opal
+    PastelHills
+    Path
+    SafeLanding
+    Shell
+    summer_1am
+    Volna
+    Flow
+    MilkyWay
+    Altai
+    Patak
+    Honeywave
+    Kay
+    Mountain
+    ScarletTree
+    Nexus
+    Nuvole
+    Coast
+    Orionids
+    Sub-Arctic
+    Waterfall
+)
+
+foreach(_wallpaper IN LISTS _wallpaper_directories)
+    file(GLOB_RECURSE _wallpaper_webp_images
+        LIST_DIRECTORIES false
+        "${CMAKE_CURRENT_SOURCE_DIR}/${_wallpaper}/*.webp"
+    )
+    if(NOT _wallpaper_webp_images)
+        message(FATAL_ERROR "No WebP images found in ${_wallpaper}; run tools/convert-images.py")
+    endif()
+
+    install(DIRECTORY "${_wallpaper}"
+        DESTINATION ${KDE_INSTALL_WALLPAPERDIR}
+        PATTERN "*.png" EXCLUDE
+        PATTERN "*.jpg" EXCLUDE
+        PATTERN "*.jpeg" EXCLUDE
+    )
+endforeach()
