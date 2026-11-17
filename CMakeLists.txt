@@ -59,18 +59,24 @@ set(_wallpaper_directories
 )
 
 foreach(_wallpaper IN LISTS _wallpaper_directories)
-    file(GLOB_RECURSE _wallpaper_webp_images
+    # PNG sources are replaced by the generated WebP images; JPEG sources are
+    # installed as they are.
+    file(GLOB_RECURSE _wallpaper_png_images
         LIST_DIRECTORIES false
-        "${CMAKE_CURRENT_SOURCE_DIR}/${_wallpaper}/*.webp"
+        "${CMAKE_CURRENT_SOURCE_DIR}/${_wallpaper}/*.png"
     )
-    if(NOT _wallpaper_webp_images)
-        message(FATAL_ERROR "No WebP images found in ${_wallpaper}; run tools/convert-images.py")
+    if(_wallpaper_png_images)
+        file(GLOB_RECURSE _wallpaper_webp_images
+            LIST_DIRECTORIES false
+            "${CMAKE_CURRENT_SOURCE_DIR}/${_wallpaper}/*.webp"
+        )
+        if(NOT _wallpaper_webp_images)
+            message(FATAL_ERROR "No WebP images found in ${_wallpaper}; run tools/convert-images.py")
+        endif()
     endif()
 
     install(DIRECTORY "${_wallpaper}"
         DESTINATION ${KDE_INSTALL_WALLPAPERDIR}
         PATTERN "*.png" EXCLUDE
-        PATTERN "*.jpg" EXCLUDE
-        PATTERN "*.jpeg" EXCLUDE
     )
 endforeach()

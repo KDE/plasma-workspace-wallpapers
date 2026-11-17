@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Generate WebP versions of the wallpaper images inside the source tree.
+"""Generate WebP versions of the PNG wallpaper images inside the source tree.
 
-The generated *.webp files are committed next to the original PNG/JPEG images.
+The generated *.webp files are committed next to the original PNG images. JPEG
+images are left untouched, since converting them to WebP saves little space.
 Run this script after adding or updating a wallpaper, then commit the results.
 """
 
@@ -17,7 +18,7 @@ try:
 except ImportError:
     sys.exit("Pillow is required to convert images (e.g. 'pip install Pillow').")
 
-SOURCE_SUFFIXES = {".png", ".jpg", ".jpeg"}
+SOURCE_SUFFIXES = {".png"}
 WEBP_QUALITY = 95
 
 

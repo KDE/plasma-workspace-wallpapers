@@ -8,7 +8,7 @@ The current default wallpaper is not included in this repository, but in [Breeze
 
 ## Image format conversion
 
-Each wallpaper is stored in its original PNG/JPEG format and as a WebP image. The WebP files are generated in the source tree and committed together with the originals, so the build does not depend on an image conversion tool. Only the WebP images are installed.
+Each wallpaper PNG is stored in its original format and as a WebP image. The WebP files are generated in the source tree and committed together with the originals, so the build does not depend on an image conversion tool. Only the WebP images are installed for PNG wallpapers. JPEG images are installed in their original format, because converting them to WebP saves little space.
 
 After adding or updating a wallpaper, regenerate the WebP files and commit them:
 
